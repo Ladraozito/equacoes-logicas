@@ -1,5 +1,5 @@
 import os
-from equacoes_logicas.utilitarios import tabela_verdade
+from utilitarios import tabela_verdade
 
 while True:
     os.system('cls' if os.name == 'nt' else 'clear')
