@@ -1,5 +1,5 @@
 import os
-from equacoes_logicas.utilitarios import tabela_verdade
+from utilitarios import tabela_verdade
 
 portas_logicas = ('NOT', 'AND', 'OR', 'NAND', 'NOR', 'XOR', 'XNOR')
 
